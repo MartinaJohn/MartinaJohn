@@ -1,5 +1,5 @@
-<h2>Heyy there!👋<h2>
-<h2>I'm Martina John</h2>
+<h2>Heyy there!👋
+I'm Martina John. </h2>
 <p><b>I absolutely love developing and working on projects that will benefit the society ✨</b></p>
 <img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" alt="girl coding" align="right" width="270">
 
