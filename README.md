@@ -1,5 +1,6 @@
 <h2>Heyy there!👋
 I'm Martina John. </h2>
+<img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" alt="girl coding" align="right" width="270">
 
 👩‍💻 I'm currently working on something cool .
 
@@ -8,8 +9,6 @@ I'm Martina John. </h2>
 🤔 I'm looking for help with : Blockchain
 
 💬 Ask me about Web development
-
-<img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" alt="girl coding" align="right" width="270">
 
 <h3>Connect with me 🤝</h3>
 
