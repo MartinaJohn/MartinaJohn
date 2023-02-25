@@ -1,6 +1,14 @@
 <h2>Heyy there!👋
 I'm Martina John. </h2>
-<p><b>I absolutely love developing and working on projects that will benefit the society ✨</b></p>
+
+👩‍💻 I'm currently working on something cool .
+
+🧠 I'm currently learning : Blockchain
+
+🤔 I'm looking for help with : Blockchain
+
+💬 Ask me about Web development
+
 <img src="https://media.giphy.com/media/dWxO36Jzd6bTSt5dIY/giphy.gif" alt="girl coding" align="right" width="270">
 
 <h3>Connect with me 🤝</h3>
