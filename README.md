@@ -4,7 +4,7 @@ I'm Martina John. </h2>
 
 👩‍💻 **I'm currently working on something cool.**
 
-🧠 **I'm currently learning : Blockchain**
+🧠 **I'm currently learning : Blockchain, AI and ML**
 
 🤔 **I'm looking for help with : Blockchain**
 
