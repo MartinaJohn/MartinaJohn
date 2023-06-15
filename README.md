@@ -14,6 +14,8 @@ I'm Martina John. </h2>
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%" target="_blank"/>](https://www.linkedin.com/in/martinajohn/)  &nbsp;<a href="mailto:martina07j@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%" target="_blank"/>  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%" target="_blank"/>](https://www.instagram.com/martina.john_/)  &nbsp;
 
+-->
+<details>
 <summary>Know More</summary>
 
 ## Technologies and Tools
@@ -37,4 +39,5 @@ I'm Martina John. </h2>
 ## 
  | ![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinajohn&show_icons=true&theme=radical&count_private=true&hide_title=true&include_all_commits=true) | ![Martina's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinajohn&theme=radical) |
  | :---: | :---: |
- 
+
+ </details>
