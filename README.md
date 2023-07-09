@@ -36,7 +36,7 @@ I'm Martina John. </h2>
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ## 
- | ![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinajohn&show_icons=true&theme=radical&count_private=true&hide_title=true&include_all_commits=true) | ![Martina's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinajohn&theme=radical) |
+ | ![Martina's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinaJohn&show_icons=true&theme=radical) | ![Martina's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinajohn&theme=radical) |
  | :---: | :---: |
 
  </details>
